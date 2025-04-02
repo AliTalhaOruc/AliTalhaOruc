@@ -1,4 +1,4 @@
-https://www.bing.com/images/search?view=detailV2&ccid=%2bDeSATK9&id=E7010A01690625F270E888A53D5C8EBD5411EE6F&thid=OIP.-DeSATK9YxLEaJA4ClRlGgHaE8&mediaurl=https%3a%2f%2fwww.kozmoslisesi.com%2fwp-content%2fuploads%2f2020%2f10%2fyazilim-nedir.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f837920132bd6312c46890380a54651a%3frik%3db%252b4RVL2OXD2liA%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1598&q=yaz%c4%b1l%c4%b1m&simid=608024837408317790&FORM=IRPRST&ck=EF35EAF030064FB7A434D2DFACA5F640&selectedIndex=2&itb=0
+
 <h1 align="center">Hi 👋, I'm Ali Talha Oruç</h1>
 <h3 align="center">A passionate game developer and web design from Turkey</h3>
 
