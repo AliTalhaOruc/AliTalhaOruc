@@ -1,21 +1,34 @@
 # Hi 👋, I'm Ali Talha Oruç
 
-Computer Engineering Student passionate about **Autonomous Robotics**, **ROS/ROS 2 Navigation**, and **Cross-Platform Mobile Development**.
+Computer Engineering Student focused on **Autonomous Robotics**, **ROS 2 Navigation**, and **Robotic Systems Engineering**.
 
 ---
 
 ### 🚀 About Me
 
-- 🤖 **Robotics & Autonomy:** Focused on ROS 2 (Humble/Jazzy), Autonomous Navigation (Nav2), SLAM Toolbox, and Gazebo Simulation for agricultural/industrial UGVs.
-- 📱 **Mobile & Software:** Developing cross-platform mobile applications using **React Native (Expo)** and **Flutter**.
-- ⚙️ **Low-Level & Hardware:** Interested in Computer Architecture, Assembly, and Embedded Systems.
+- 🤖 **Autonomous Robotics:** Developing end-to-end autonomous navigation pipelines with ROS 2 (Humble/Jazzy), Nav2, SLAM Toolbox, sensor fusion (EKF), and Gazebo simulation.
+- 🌱 **Field & Agricultural UGVs:** Specializing in navigation behaviors, narrow corridor centering, obstacle avoidance, and frontier exploration for agricultural/industrial environments.
+- 📱 **Mobile Development:** Building cross-platform mobile applications using **React Native (Expo)** and **Flutter**.
+- ⚙️ **Low-Level & Hardware:** Knowledgeable in computer architecture, C/C++, assembly, and low-level software integration.
 - 🎓 **Education:** Computer Engineering Student at Konya Technical University.
+
+---
+
+### 📌 Featured Project
+
+#### 🚜 [Husky Greenhouse Explorer](https://github.com/AliTalhaOruc/husky_greenhouse_explorer)
+*Autonomous SLAM mapping and navigation system optimized for narrow greenhouse corridors (TEKNOFEST Autonomous Robotics Project).*
+
+- **Complete Autonomy Pipeline:** Independently designed and built the entire exploration, mapping, localization, and navigation stack.
+- **Custom Frontier Exploration:** Developed an integrated Python node driving autonomous mapping and goal generation.
+- **Nav2 & Path Optimization:** Fine-tuned `RegulatedPurePursuitController` and costmaps for narrow row centering, zero-radius turn avoidance, and bidirectional motion.
+- **Localization & Fusion:** Fused IMU filtering (`imu_filter_madgwick`) with EKF (`robot_localization`) to eliminate spatial drift during repetitive row traversals.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Robotics & Simulation**
+**Robotics & Autonomous Systems**
 ![ROS2](https://img.shields.io/badge/ROS2-Humble%2FJazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Classic-orange?style=for-the-badge&logo=gazebo&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -33,9 +46,10 @@ Computer Engineering Student passionate about **Autonomous Robotics**, **ROS/ROS
 
 ---
 
-### 📌 Featured Projects
+### 🎯 Current Focus
 
-- 🚜 **[Husky Greenhouse Explorer](https://github.com/AliTalhaOruc/husky_greenhouse_explorer):** Autonomous SLAM mapping and Nav2 corridor exploration system tailored for agricultural UGVs in ROS 2.
+**Autonomous Robotics → ROS 2 → Navigation → SLAM → Sensor Fusion → Simulation**
+Currently focused on designing robust autonomous navigation stacks and bringing intelligent mobile robotics solutions to real-world environments.
 
 ---
 
