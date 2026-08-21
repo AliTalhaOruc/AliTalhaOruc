@@ -1,17 +1,54 @@
- <h1 align="center"> <img src="https://www.kozmoslisesi.com/wp-content/uploads/2020/10/yazilim-nedir.jpg" alt="masterimg" width="500" height="200"/></h1>
-<h1 align="center">Hi 👋, I'm Ali Talha Oruç</h1>
-<h3 align="center">A passionate game developer and web design from Turkey</h3>
+# Hi 👋, I'm Ali Talha Oruç
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Computer Engineering Student passionate about **Autonomous Robotics**, **ROS/ROS 2 Navigation**, and **Cross-Platform Mobile Development**.
+
+---
+
+### 🚀 About Me
+
+- 🤖 **Robotics & Autonomy:** Focused on ROS 2 (Humble/Jazzy), Autonomous Navigation (Nav2), SLAM Toolbox, and Gazebo Simulation for agricultural/industrial UGVs.
+- 📱 **Mobile & Software:** Developing cross-platform mobile applications using **React Native (Expo)** and **Flutter**.
+- ⚙️ **Low-Level & Hardware:** Interested in Computer Architecture, Assembly, and Embedded Systems.
+- 🎓 **Education:** Computer Engineering Student at Konya Technical University.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Robotics & Simulation**
+![ROS2](https://img.shields.io/badge/ROS2-Humble%2FJazzy-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Classic-orange?style=for-the-badge&logo=gazebo&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Mobile & Web Development**
+![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🚜 **[Husky Greenhouse Explorer](https://github.com/AliTalhaOruc/husky_greenhouse_explorer):** Autonomous SLAM mapping and Nav2 corridor exploration system tailored for agricultural UGVs in ROS 2.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alitalhaoruc&show_icons=true&theme=dark" alt="Ali Talha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alitalhaoruc&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitalhaoruc&show_icons=true&locale=en&layout=compact" alt="alitalhaoruc" /></p>
+### 📬 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alitalhaoruc&show_icons=true&locale=en" alt="alitalhaoruc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alitalhaoruc&" alt="alitalhaoruc" /></p>
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/alitalhaoruc)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alitalhaoruc@gmail.com)
