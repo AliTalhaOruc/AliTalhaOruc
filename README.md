@@ -6,12 +6,17 @@ Computer Engineering Student focused on **Autonomous Robotics**, **ROS 2 Navigat
 
 ### 🚀 About Me
 
-- 🤖 **Autonomous Robotics:** Developing end-to-end autonomous navigation pipelines with ROS 2 (Humble/Jazzy), Nav2, SLAM Toolbox, sensor fusion (EKF), and Gazebo simulation.
-- 🌱 **Field & Agricultural UGVs:** Specializing in navigation behaviors, narrow corridor centering, obstacle avoidance, and frontier exploration for agricultural/industrial environments.
-- 📱 **Mobile Development:** Building cross-platform mobile applications using **React Native (Expo)** and **Flutter**.
-- ⚙️ **Low-Level & Hardware:** Knowledgeable in computer architecture, C/C++, assembly, and low-level software integration.
-- 🎓 **Education:** Computer Engineering Student at Konya Technical University.
+- 🤖 **Autonomous Robotics & ROS 2:** Developing autonomous robotic systems using ROS 2, Nav2, SLAM Toolbox, sensor fusion (EKF), Gazebo simulation, and real-time control architectures.
 
+- 🎯 **Computer Vision & Tracking:** Building perception and tracking pipelines with OpenCV, YOLOv8, Kalman Filters, and autonomous target engagement systems.
+
+- 🌱 **Field & Agricultural UGVs:** Specializing in navigation behaviors, narrow corridor centering, obstacle avoidance, and frontier exploration for agricultural/industrial environments.
+
+- 📱 **Mobile Development:** Building cross-platform mobile applications using React Native (Expo) and Flutter.
+
+- ⚙️ **Low-Level & Hardware:** Knowledgeable in C/C++, Linux, computer architecture, assembly, and hardware-software integration.
+
+- 🎓 **Education:** Computer Engineering Student at Konya Technical University.
 ---
 
 ### 📌 Featured Project
@@ -24,6 +29,15 @@ Computer Engineering Student focused on **Autonomous Robotics**, **ROS 2 Navigat
 - **Nav2 & Path Optimization:** Fine-tuned `RegulatedPurePursuitController` and costmaps for narrow row centering, zero-radius turn avoidance, and bidirectional motion.
 - **Localization & Fusion:** Fused IMU filtering (`imu_filter_madgwick`) with EKF (`robot_localization`) to eliminate spatial drift during repetitive row traversals.
 
+#### Autonomous ROS 2 Gimbal Tracking & Engagement System
+
+Autonomous target detection, tracking, prediction, and engagement system developed using ROS 2, Gazebo, YOLOv8, and custom ballistic simulation plugins.
+
+Custom YOLOv8 Detector: Collected and annotated a custom dataset (500+ images) and trained a YOLOv8 model for robust aerial target detection under varying colors, scales, and viewpoints.
+Kalman Filter Tracking: Implemented Kalman Filter-based motion prediction to estimate target position and velocity, reducing detection noise and improving tracking stability.
+Autonomous Gimbal Control: Developed a PD-based pan-tilt controller that continuously aligns the camera and turret with the detected target.
+Projectile Simulation & Hit Detection: Designed a custom Gazebo C++ plugin for projectile spawning, ballistic motion simulation, collision analysis, and hit confirmation through ROS 2 topics.
+End-to-End Integration: Integrated perception, tracking, prediction, aiming, firing, and hit-detection into a fully autonomous closed-loop engagement pipeline.
 ---
 
 ### 🛠️ Tech Stack & Tools
