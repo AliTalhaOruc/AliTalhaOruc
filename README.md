@@ -31,13 +31,13 @@ Computer Engineering Student focused on **Autonomous Robotics**, **ROS 2 Navigat
 
 #### Autonomous ROS 2 Gimbal Tracking & Engagement System
 
-Autonomous target detection, tracking, prediction, and engagement system developed using ROS 2, Gazebo, YOLOv8, and custom ballistic simulation plugins.
+*Autonomous target detection, tracking, prediction, and engagement system developed using ROS 2, Gazebo, YOLOv8, and custom ballistic simulation plugins.
 
-Custom YOLOv8 Detector: Collected and annotated a custom dataset (500+ images) and trained a YOLOv8 model for robust aerial target detection under varying colors, scales, and viewpoints.
-Kalman Filter Tracking: Implemented Kalman Filter-based motion prediction to estimate target position and velocity, reducing detection noise and improving tracking stability.
-Autonomous Gimbal Control: Developed a PD-based pan-tilt controller that continuously aligns the camera and turret with the detected target.
-Projectile Simulation & Hit Detection: Designed a custom Gazebo C++ plugin for projectile spawning, ballistic motion simulation, collision analysis, and hit confirmation through ROS 2 topics.
-End-to-End Integration: Integrated perception, tracking, prediction, aiming, firing, and hit-detection into a fully autonomous closed-loop engagement pipeline.
+- **Custom YOLOv8 Detector: Collected and annotated a custom dataset (500+ images) and trained a YOLOv8 model for robust aerial target detection under varying colors, scales, and viewpoints.
+- **Kalman Filter Tracking: Implemented Kalman Filter-based motion prediction to estimate target position and velocity, reducing detection noise and improving tracking stability.
+- **Autonomous Gimbal Control: Developed a PD-based pan-tilt controller that continuously aligns the camera and turret with the detected target.
+- **Projectile Simulation & Hit Detection: Designed a custom Gazebo C++ plugin for projectile spawning, ballistic motion simulation, collision analysis, and hit confirmation through ROS 2 topics.
+- **End-to-End Integration: Integrated perception, tracking, prediction, aiming, firing, and hit-detection into a fully autonomous closed-loop engagement pipeline.
 ---
 
 ### 🛠️ Tech Stack & Tools
