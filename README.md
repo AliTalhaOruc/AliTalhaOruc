@@ -29,7 +29,7 @@ Computer Engineering Student focused on **Autonomous Robotics**, **ROS 2 Navigat
 - **Nav2 & Path Optimization:** Fine-tuned `RegulatedPurePursuitController` and costmaps for narrow row centering, zero-radius turn avoidance, and bidirectional motion.
 - **Localization & Fusion:** Fused IMU filtering (`imu_filter_madgwick`) with EKF (`robot_localization`) to eliminate spatial drift during repetitive row traversals.
 
-#### Autonomous ROS 2 Gimbal Tracking & Engagement System
+#### [Autonomous ROS 2 Gimbal Tracking & Engagement System](https://github.com/AliTalhaOruc/ros2-gimbal-target-engagement)
 
 *Autonomous target detection, tracking, prediction, and engagement system developed using ROS 2, Gazebo, YOLOv8, and custom ballistic simulation plugins.
 
